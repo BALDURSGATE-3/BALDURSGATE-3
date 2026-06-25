@@ -1,4 +1,3 @@
-need to figure it out but here is the code so ur profile matches ur pfp at least for now
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=442A14&style=flat" alt="Profile Views" />
 </p>
