@@ -18,3 +18,9 @@
     <img src="https://img.shields.io/badge/𝔄𝔱𝔞𝔟𝔬𝔬𝔨-442A14?style=for-the-badge&logoColor=white">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t2w36kx9n55y282zqg8t91fog&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=442a14&bar_color_cover=false&mode=dark">
+  </a>
+</p>
