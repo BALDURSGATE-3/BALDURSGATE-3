@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  creds to @MentalLobotomy for the graphic .
+credits to @MentalLobotomy for the graphic .
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
