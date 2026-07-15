@@ -13,17 +13,17 @@
 <a href="https://baldursgate3.atabook.org/">
     <img src="https://img.shields.io/badge/ATABOOK-a5232d?style=for-the-badge&logoColor=white">
   </a>
+
 </p>
-
-<p align="center">
-  <img width="600" height="600" alt="OMFGFG" src="https://github.com/user-attachments/assets/eba60ebf-e94a-4c91-81e9-cef32c1f53fb" />
-</p><p align="center" style="white-space: nowrap;">
-
 <p align="center">
   ᴄʀᴇᴅɪᴛꜱ ᴛᴏ
   <a href="https://github.com/MentalLobotomy">@ᴍᴇɴᴛᴀʟʟᴏʙᴏᴛᴏᴍʏ</a>
   ꜰᴏʀ ᴛʜᴇ ɢʀᴀᴘʜɪᴄ.
 </p>
+
+<p align="center">
+  <img width="600" height="600" alt="OMFGFG" src="https://github.com/user-attachments/assets/eba60ebf-e94a-4c91-81e9-cef32c1f53fb" />
+</p><p align="center" style="white-space: nowrap;">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
