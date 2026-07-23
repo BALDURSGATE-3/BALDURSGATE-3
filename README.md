@@ -13,7 +13,10 @@
 <a href="https://baldursgate3.atabook.org/">
     <img src="https://img.shields.io/badge/ATABOOK-a5232d?style=for-the-badge&logoColor=white">
   </a>
-
+ </a>
+ <span style="color:#593133; margin: 0 12px;">݁ᛪ༙♱</span>
+<a href="https://discord.gg/d5fCPhEtG/">
+    <img src="https://img.shields.io/badge/HELLSING SERVER-593133?style=for-the-badge&logoColor=white">
 </p>
 <p align="center">
   ᴄʀᴇᴅɪᴛꜱ ᴛᴏ
