@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=9f5051&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=2b2032&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@
 <a href="https://baldursgate3.atabook.org/">
     <img src="https://img.shields.io/badge/ATABOOK-ddd093?style=for-the-badge&logoColor=yellow">
   </a>
-
+  
 <p align="center">
-<img width="375" height="508" alt="hehehe" src="https://github.com/user-attachments/assets/98a79bdc-bca9-4a9b-9e52-046742af7c9f" />
+<img width="819" height="473" alt="Screenshot 2026-07-23 220635" src="https://github.com/user-attachments/assets/24f5de4e-f9a2-42a7-af68-c6c46053a8ae" />
 <p align="center">
   
  </a>
 <a href="https://discord.gg/d5fCPhEtG/">
-    <img src="https://img.shields.io/badge/HELLSING SERVER-9f5051?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/HELLSING SERVER-2b2032?style=for-the-badge&logoColor=white">
 </p>
   
 <p align="center">
