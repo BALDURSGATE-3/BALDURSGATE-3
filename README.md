@@ -15,8 +15,20 @@
 <p align="center">
 <img width="819" height="473" alt="Screenshot 2026-07-23 220635" src="https://github.com/user-attachments/assets/24f5de4e-f9a2-42a7-af68-c6c46053a8ae" />
 <p align="center">
-  
- </a>
+
+<p align="center">
+Looking for Chat: -> I mainly use this, usually used for if I'm active.
+</p>
+
+<p align="center">
+Away: -> I normally don't use this but when I do it's to show I'm busy.
+</p>
+
+<p align="center">
+Busy: -> I don't use this one a lot either. As said above it'll be for if I'm busy.
+</p>
+
+ <p align="center">
 <a href="https://discord.gg/d5fCPhEtG/">
     <img src="https://img.shields.io/badge/HELLSING SERVER-2b2032?style=for-the-badge&logoColor=white">
 </p>
