@@ -16,18 +16,6 @@
 <img width="550" height="550" alt="Screenshot 2026-07-29 100406" src="https://github.com/user-attachments/assets/a621cf8f-bd5d-4c83-9699-191c679719f1" />
 <p align="center">
 
-<p align="center">
-Looking for Chat: -> I mainly use this, usually used for if I'm active.
-</p>
-
-<p align="center">
-Away: -> I normally don't use this but when I do it's to show I'm busy.
-</p>
-
-<p align="center">
-Busy: -> I don't use this one a lot either. As said above it'll be for if I'm busy.
-</p>
-
  <p align="center">
 <a href="https://discord.gg/d5fCPhEtG/">
     <img src="https://img.shields.io/badge/HELLSING SERVER-2b2032?style=for-the-badge&logoColor=white">
