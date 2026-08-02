@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pinterest.com/HELLSINGSTRUMPCARD/_profile/">
+  <a href="https://www.pinterest.com/HighElvenVampireSpawn/">
     <img src="https://img.shields.io/badge/PINTEREST-ddd093?style=for-the-badge&logo=pinterest&logoColor=white">
   </a>
 <span style="color:#9f5051; margin: 0 12px;">݁࣪ ִֶָ☾.</span>
