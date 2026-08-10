@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=2b2032&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=3f0432&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://www.pinterest.com/HighElvenVampireSpawn/">
-    <img src="https://img.shields.io/badge/PINTEREST-ddd093?style=for-the-badge&logo=pinterest&logoColor=white">
+    <img src="https://img.shields.io/badge/PINTEREST-a0946f?style=for-the-badge&logo=pinterest&logoColor=white">
   </a>
 <span style="color:#9f5051; margin: 0 12px;">݁࣪ ִֶָ☾.</span>
   
 <a href="https://baldursgate3.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-ddd093?style=for-the-badge&logoColor=yellow">
+    <img src="https://img.shields.io/badge/ATABOOK-a0946f?style=for-the-badge&logoColor=yellow">
   </a>
   
 <p align="center">
-<img width="530" height="530" alt="Screenshot 2026-08-03 233744" src="https://github.com/user-attachments/assets/e8abc1a5-a303-4df4-bc08-04a86b302eac" />
+<img width="728" height="460" alt="Screenshot 2026-08-10 143216" src="https://github.com/user-attachments/assets/a95e1622-7fcd-4b86-bac2-6ee60127cc71" />
 <p align="center">
 
  <p align="center">
 <a href="https://discord.gg/d5fCPhEtG/">
-    <img src="https://img.shields.io/badge/HELLSING SERVER-2b2032?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/HELLSING SERVER-3f0432?style=for-the-badge&logoColor=white">
 </p>
   
 <p align="center">
