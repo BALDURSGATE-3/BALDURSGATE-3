@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=3f0432&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=491742&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
  <p align="center">
 <a href="https://discord.gg/d5fCPhEtG/">
-    <img src="https://img.shields.io/badge/HELLSING SERVER-3f0432?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/HELLSING SERVER-491742?style=for-the-badge&logoColor=white">
 </p>
   
 <p align="center">
