@@ -11,6 +11,8 @@
 <a href="https://baldursgate3.atabook.org/">
     <img src="https://img.shields.io/badge/ATABOOK-6f4548?style=for-the-badge&logoColor=yellow">
   </a>
+
+<p align="center"> Thank you @pt-walk-of-fame for putting me on Prettiest Githubs.
   
 <p align="center">
 <img width="711" height="392" alt="Screenshot 2026-08-05 120332" src="https://github.com/user-attachments/assets/da56e09f-cd8c-4747-9444-8cf9bdb06446" />
