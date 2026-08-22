@@ -11,6 +11,10 @@
 <a href="https://baldursgate3.atabook.org/">
     <img src="https://img.shields.io/badge/ATABOOK-a8a8a8?style=for-the-badge&logoColor=yellow">
   </a>
+<span style="color:#9f5051; margin: 0 12px;">݁࣪ ִֶָ☾.</span>
+<a href="https://starsandthehalfmoon.straw.page/">
+   <img src="https://img.shields.io/badge/STRAWPAGE-a8a8a8?style=for-the-badge&logoColor=yellow">
+    </a>
 
 <p align="center">
 <img width="536" height="536" alt="5555" src="https://github.com/user-attachments/assets/48ab8093-ba53-4084-ac40-221125b9f607" />
