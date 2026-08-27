@@ -1,35 +1,28 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=373737&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=𑣲&color=373737&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
+<img width="546" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
+
+<p align="center">
+  <a href="https://baldursgate3.atabook.org/">
+    <img src="https://github.com/user-attachments/assets/9de008e7-12d7-4e73-af6a-bb56e09aaaf1" width="180" height="340">
+  </a>
+  <a href="https://starsandthehalfmoon.straw.page/">
+    <img src="https://github.com/user-attachments/assets/aaba9280-6336-46c0-80be-89cd427cff95" width="180" height="340">
+  </a>
   <a href="https://www.pinterest.com/HighElvenVampireSpawn/">
-    <img src="https://img.shields.io/badge/PINTEREST-a8a8a8?style=for-the-badge&logo=pinterest&logoColor=white">
-  </a>
-<span style="color:#9f5051; margin: 0 12px;">݁࣪ ִֶָ☾.</span>
-  
-<a href="https://baldursgate3.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-a8a8a8?style=for-the-badge&logoColor=yellow">
-  </a>
-<span style="color:#9f5051; margin: 0 12px;">݁࣪ ִֶָ☾.</span>
-<a href="https://starsandthehalfmoon.straw.page/">
-   <img src="https://img.shields.io/badge/STRAWPAGE-a8a8a8?style=for-the-badge&logoColor=yellow">
-    </a>
-
-<p align="center">
-<img width="536" height="536" alt="15" src="https://github.com/user-attachments/assets/39dfea72-26cd-454b-9b58-3658d086dfe8" />
-
-<p align="center">
-  
-<p align="center"> Thank you @pt-walk-of-fame for putting me on Prettiest Githubs, and thank you @3LUEFLAME for nominating me.
-  
- <p align="center">
-<a href="https://discord.gg/d5fCPhEtG/">
-    <img src="https://img.shields.io/badge/HELLSING SERVER-373737?style=for-the-badge&logoColor=white">
-</p>
-  
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t2w36kx9n55y282zqg8t91fog&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://github.com/user-attachments/assets/e2c9f619-a821-4145-a1ee-e41e9318bb42" width="180" height="340">
   </a>
 </p>
+
+<p align="center">
+𑣲
+Atabook
+Strawpage
+Pinterest
+𑣲
+
+<p align="center">
+<img width="546" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
