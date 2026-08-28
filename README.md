@@ -31,7 +31,4 @@ Pinterest
 </p>
 
 <p align="center">
-<img width="550" height="505" alt="12121" src="https://github.com/user-attachments/assets/6fa34ce2-857b-4fcc-97c3-43953eb4469c" />
-
-<p align="center">
 <img width="546" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
