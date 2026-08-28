@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-<img width="550" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
-
-<p align="center">
 𑣲
 Atabook
 Strawpage
 Pinterest
 𑣲
+
+<p align="center">
+<img width="550" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
 
 <p align="center">
   <a href="https://baldursgate3.atabook.org/">
@@ -21,6 +21,12 @@ Pinterest
   </a>
   <a href="https://www.pinterest.com/HighElvenVampireSpawn/">
     <img src="https://github.com/user-attachments/assets/e2c9f619-a821-4145-a1ee-e41e9318bb42" width="180" height="340">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t2w36kx9n55y282zqg8t91fog&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
