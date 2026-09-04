@@ -8,6 +8,8 @@ Atabook
 Strawpage
 Pinterest
 𑣲
+<p align="center">
+Thank you for Prettiest Github title.
 
 <p align="center">
 <img width="550" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
