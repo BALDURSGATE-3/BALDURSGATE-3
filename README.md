@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-𑣲
-Atabook
-Strawpage
-Pinterest
-𑣲
-<p align="center">
 Thank you for Prettiest Github title.
 
 <p align="center">
