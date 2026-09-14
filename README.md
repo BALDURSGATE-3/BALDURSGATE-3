@@ -8,18 +8,6 @@
 <img width="547" height="547" alt="cowboy1" src="https://github.com/user-attachments/assets/1618ee2e-c88c-47c8-80c9-840717275158" />
 
 <p align="center">
-  <a href="https://baldursgate3.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/9de008e7-12d7-4e73-af6a-bb56e09aaaf1" width="180" height="340">
-  </a>
-  <a href="https://starsandthehalfmoon.straw.page/">
-    <img src="https://github.com/user-attachments/assets/aaba9280-6336-46c0-80be-89cd427cff95" width="180" height="340">
-  </a>
-  <a href="https://www.pinterest.com/HighElvenVampireSpawn/">
-    <img src="https://github.com/user-attachments/assets/e2c9f619-a821-4145-a1ee-e41e9318bb42" width="180" height="340">
-  </a>
-</p>
-
-<p align="center">
 Demon Slayer OC Strawpage WIP - https://spirithashira.straw.page
 
 <p align="center">
