@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-<img width="550" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
-
 <img width="547" height="547" alt="cowboy1" src="https://github.com/user-attachments/assets/1618ee2e-c88c-47c8-80c9-840717275158" />
 
 <p align="center">
@@ -15,6 +13,3 @@ Demon Slayer OC Strawpage WIP - https://spirithashira.straw.page
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t2w36kx9n55y282zqg8t91fog&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
-
-<p align="center">
-<img width="546" height="80" alt="idk" src="https://github.com/user-attachments/assets/6727dc19-2c64-4927-b69e-022b3b37ceab" />
