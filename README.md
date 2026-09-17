@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-Demon Slayer OC Strawpage WIP - https://spirithashira.straw.page
-
-<p align="center">
 <img width="736" height="460" alt="eaea" src="https://github.com/user-attachments/assets/41dd2a9b-f5d6-42ae-bb34-d191cae742db" />
 
 <p align="center">
