@@ -10,4 +10,4 @@
 
 
 <p align="center">
-<img width="736" height="460" alt="eaea" src="https://github.com/user-attachments/assets/41dd2a9b-f5d6-42ae-bb34-d191cae742db" />
+<img width="785" height="375" alt="Screenshot 2026-09-20 141635" src="https://github.com/user-attachments/assets/79cac406-cfa8-459b-9a46-40e42f6b340e" />
