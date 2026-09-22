@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="785" height="375" alt="Screenshot 2026-09-20 141635" src="https://github.com/user-attachments/assets/79cac406-cfa8-459b-9a46-40e42f6b340e" />
+<img width="664" height="664" alt="gif" src="https://github.com/user-attachments/assets/fa7cafb2-e726-4825-a402-974a0f31db1e" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
