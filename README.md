@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+Join our Hellsing server, if you're into the anime -> https://discord.gg/cJtpVzKDk
+
+<p align="center">
 <img width="664" height="664" alt="111" src="https://github.com/user-attachments/assets/59983c29-cf89-44c2-bbec-2e4264737a37" />
 
 <p align="center">
