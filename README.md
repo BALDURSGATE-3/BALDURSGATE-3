@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=𑣲&color=373737&style=flat" alt="Profile Views" />
 </p>
-
 <p align="center">
 Join our Hellsing server, if you're into the anime -> https://discord.gg/cJtpVzKDk
 
